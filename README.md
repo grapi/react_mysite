@@ -1,2 +1,2 @@
 # react_mysite
-\n# git flow init 
+# git flow init 
